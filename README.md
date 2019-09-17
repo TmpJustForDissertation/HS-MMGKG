@@ -11,10 +11,10 @@ HS-MMGKG is a new multi-objective heuristic optimization methodology for detecti
 /data/example.tped and /data/example.tfam is an example of real GWAS data containing only 1000 SNPs. More details about the tped and tfam format is at http://www.cog-genomics.org/plink/1.9/formats#tped.<br>
 /data/example.txt is an exmaple of simulated data containing 1000 SNPs.<br>
 # Compilation
-cd /code
-bash build.sh
+cd /code<br>
+bash build.sh<br>
 # run
-cd /code
+cd /code<br>
 \#\#Run a graphical interactive interface and it supports multiple threads.<br>
 java -jar /target/hs-mmgkg.jar<br>
 \#\#Detect epistatic interactions in /data/example.txt.<br>
