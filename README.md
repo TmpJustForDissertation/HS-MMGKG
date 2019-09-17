@@ -36,3 +36,5 @@ ishow|4000|After each ishow iterations, HS-MMGKG displays echoes.
 nshow|4|The number of displayed harmonies.
 pvalue|0.05|The threshold of pvalue.
 nsolution|40|The number of reported epistatic interactions.
+# Code Ocean
+I have also published HS-MMGKG in Code Ocean at https://codeocean.com/capsule/e2cc6ff3-5423-4374-bc15-1c73b84de8ac/.
